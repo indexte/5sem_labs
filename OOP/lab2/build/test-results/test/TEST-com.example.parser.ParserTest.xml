@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.parser.ParserTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2020-12-07T07:42:48" hostname="DESKTOP-VRS804K" time="0.272">
+  <properties/>
+  <testcase name="StAXParserTest" classname="com.example.parser.ParserTest" time="0.178"/>
+  <testcase name="SAXParserTest" classname="com.example.parser.ParserTest" time="0.036"/>
+  <testcase name="DOMParserTest" classname="com.example.parser.ParserTest" time="0.055"/>
+  <system-out><![CDATA[
+Plane{ 
+	Id: 341, 
+	model: SU-24MR, 
+	origin: Russia, 
+	price: 8000, 
+	chars: {type: reconnaissance, number of seats: 1, radar: yes}, 
+	parameters: {length: 24, width: 35, height: 6}
+}
+Plane{ 
+	Id: 672, 
+	model: AC-130 Spectre, 
+	origin: USA, 
+	price: 25000, 
+	chars: {type: support, number of seats: 2, radar: no}, 
+	parameters: {length: 29, width: 81, height: 11}
+}
+Plane{ 
+	Id: 912, 
+	model: F-22, 
+	origin: USA, 
+	price: 12000, 
+	chars: {type: fighter, number of seats: 2, radar: no}, 
+	parameters: {length: 18, width: 27, height: 5}
+}
+
+Plane{ 
+	Id: 341, 
+	model: SU-24MR, 
+	origin: Russia, 
+	price: 8000, 
+	chars: {type: reconnaissance, number of seats: 1, radar: yes}, 
+	parameters: {length: 24, width: 35, height: 6}
+}
+Plane{ 
+	Id: 672, 
+	model: AC-130 Spectre, 
+	origin: USA, 
+	price: 25000, 
+	chars: {type: support, number of seats: 2, radar: no}, 
+	parameters: {length: 29, width: 81, height: 11}
+}
+Plane{ 
+	Id: 912, 
+	model: F-22, 
+	origin: USA, 
+	price: 12000, 
+	chars: {type: fighter, number of seats: 2, radar: no}, 
+	parameters: {length: 18, width: 27, height: 5}
+}
+
+Plane{ 
+	Id: 341, 
+	model: SU-24MR, 
+	origin: Russia, 
+	price: 8000, 
+	chars: {type: reconnaissance, number of seats: 1, radar: yes}, 
+	parameters: {length: 24, width: 35, height: 6}
+}
+Plane{ 
+	Id: 672, 
+	model: AC-130 Spectre, 
+	origin: USA, 
+	price: 25000, 
+	chars: {type: support, number of seats: 2, radar: no}, 
+	parameters: {length: 29, width: 81, height: 11}
+}
+Plane{ 
+	Id: 912, 
+	model: F-22, 
+	origin: USA, 
+	price: 12000, 
+	chars: {type: fighter, number of seats: 2, radar: no}, 
+	parameters: {length: 18, width: 27, height: 5}
+}
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
