@@ -1,0 +1,11 @@
+Scheduling Type: Interactive (Preemptive)
+Scheduling Name: Fair share
+Simulation Run Time: 3664
+Mean: 1100
+Standard Deviation: 510
+Quantum: 200
+Process #	User	CPU Time	IO Blocking	CPU Completed	CPU Blocked
+0		2	1165 (ms)	100 (ms)	1165 (ms)	11 times
+1		0	821 (ms)	100 (ms)	821 (ms)	8 times
+2		1	839 (ms)	30 (ms)		839 (ms)	27 times
+3		1	839 (ms)	400 (ms)	839 (ms)	2 times
